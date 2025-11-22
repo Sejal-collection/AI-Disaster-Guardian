@@ -1,0 +1,7 @@
+{
+  "name": "AI-Disaster-Guardian",
+  "description": "An AI-powered command center for disaster prediction, preparedness, and recovery operations with real-time risk analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
